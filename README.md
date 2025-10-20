@@ -81,8 +81,6 @@ Use **Resample** with **Bilinear**:
 
 ## Example results
 
-Add images like:
-
 ### Input RGB (2 cm)
 <img width="1035" height="675" alt="image" src="https://github.com/user-attachments/assets/846627fa-2afa-4d44-b9c3-56aa98db334e" />
 

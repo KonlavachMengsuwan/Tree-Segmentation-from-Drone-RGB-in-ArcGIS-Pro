@@ -1,4 +1,4 @@
-# Tree Segmentation from Drone RGB — Resolution Comparison (2 cm vs 10 cm vs 30 cm)
+# Tree Segmentation from Drone RGB: Resolution Comparison (2 cm vs 10 cm vs 30 cm)
 <img width="1984" height="1115" alt="image" src="https://github.com/user-attachments/assets/c9707833-68ff-4c23-8890-aacb7083f538" />
 
 This repo shows how changing image resolution affects tree-crown detection in **ArcGIS Pro** using a pretrained **TreeSegmentation (`.dlpk`)** model.  

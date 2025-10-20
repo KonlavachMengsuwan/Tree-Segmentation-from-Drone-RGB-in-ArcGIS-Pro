@@ -85,13 +85,15 @@ Add images like:
 
 ```md
 ### Input RGB (2 cm)
-![Input](images/input_rgb.jpg)
+<img width="1035" height="675" alt="image" src="https://github.com/user-attachments/assets/846627fa-2afa-4d44-b9c3-56aa98db334e" />
+
 
 ### Detections @ 2 cm
 ![2cm](images/det_2cm.png)
 
 ### Detections @ 10 cm
-![10cm](images/det_10cm.png)
+<img width="1031" height="676" alt="image" src="https://github.com/user-attachments/assets/a503b326-ec39-4642-8f49-39ee0cd2c08e" />
 
 ### Detections @ 30 cm (better large-tree recall)
-![30cm](images/det_30cm.png)
+<img width="1028" height="675" alt="image" src="https://github.com/user-attachments/assets/b20d1d29-59e5-467f-9eb3-8f7e8e1257b6" />
+
